@@ -1,6 +1,7 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+baseURL = "https://cuwipatucf.github.io/"
 languageCode = "en"
-title = "Devfest Toulouse 2019"
+disableLanguages = ["fr"]
+title = "CUWiP at UCF 2022"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -14,37 +15,34 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-37717223-8"
 
 [params]
-    title = "DevFest Toulouse 2019"
-    date = "2019-10-03"
-    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
-    images = ["/images/social-share.jpg"]
-    email = "contact@devfesttoulouse.fr"
+    title = "CUWiP at UCF 2022"
+    date = "2022-01-22"
+    description = "CUWiP is the Conference for Undergraduate Women in Physics. The goal of APS CUWiP is to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas. The national and local organizing committees of APS CUWiP strive to create a welcoming environment for all, including undergraduate women and gender minorities."
+    images = ["/images/logos/ucf-wip-color300.png"]
+    email = "ucfwips@gmail.com"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
-    copyright = "We :heart:️ chocolatines"
+    copyright = "UCF CUWiP 2022"
     cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-    subscriptionUrl = "http://eepurl.com/dps1j5"
-    appleTouchIcon = "/apple-touch-icon.png"
-    favicon32 = "/favicon-32x32.png"
-    favicon16 = "/favicon-16x16.png"
+    subscriptionUrl = "https://sciences.ucf.edu/physics/wips/"
+    appleTouchIcon = "/images/logos/ucf-wip-color300.png"
+    favicon32 = "/images/logos/ucf-wip-color300.png"
+    favicon16 = "/images/logos/ucf-wip-color300.png"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
-    googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
+    #googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
 
 [params.logos]
-    jumbo = "/images/logos/devfest_color_text.png"
-    header = "/images/logos/devfest_color_text.png"
-    footer = "/images/logos/devfest_gray_text.png"
+    #jumbo = "/images/logos/devfest_color_text.png"
+    header = "/images/logos/ucf-wip-color300.png"
+    jumbo = "/images/logos/ucf-wip-color300.png"
+    footer = "/images/logos/ucf-wip-gray300.png"
 
 [menu]
-[[menu.main]]
-    identifier = "jobs"
-    name = "Jobs"
-    url = "https://jobs.devfesttoulouse.fr/"
-    weight = 200
-    external = true
 
 [languages]
+
+
 [languages.en]
     weight = 1
     languageName = "gb"
@@ -64,7 +62,7 @@ googleAnalytics = "UA-37717223-8"
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = false
-    disable = false
+    disable = true
     respectDoNotTrack = false
     useSessionStorage = false
   [privacy.instagram]

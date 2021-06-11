@@ -9,10 +9,11 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/cuwip-compressed.gif" imgLabel="Past CUWiP Photos" %}}
 
-## October 3rd, 2019
-### Pierre Baudis congress center
+## January 22nd-24th, 2022 
+### University of Central Florida 
+#### Orlando, FL
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -26,15 +27,14 @@ menu:
 
 
 
-{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## What is DevFest Toulouse?
+{{% home-info what="Participants:300,Day:3,Sessions:36,Parallel Tracks:4" class="primary" %}}
+## What is CUWiP?
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
+CUWiP is the Conference for Undergraduate Women in Physics. The goal of APS CUWiP is to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas. The national and local organizing committees of APS CUWiP strive to create a welcoming environment for all, including undergraduate women and gender minorities.
 {{% /home-info %}}
 
 
-{{< youtube-section link="AFhHrQIAw3g" title="Watch 2019 into" class="" >}}
+{{< youtube-section link="t5FSR8TbwxA" title="An Idea of What to Expect" class="" >}}
 
 <!-- ... -->
 
@@ -104,36 +104,38 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    image="/images/ucf-map.png"
+    address="4000 Central Florida Blvd, Orlando FL"
+    latitude="28.60261"
+    longitude="-81.20025" %}}
 
 ## The venue
 
-### Centre de Congrès Pierre Baudis
+### 
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
-located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+Founded in 1963 to fuel the region’s talent pipeline and support the growing U.S. space program, UCF is built to make a better future for our students and society. It’s one of the reasons U.S. News & World Report ranks UCF among the nation’s top 20 most innovative colleges, while Forbes, Kiplinger and The Princeton Review rank us a best-value university.
 
+As a metropolitan research university in Florida, we are driven to do more and be more. We believe success can only happen when we expand opportunity and demand excellence. We believe if there’s a better way, we should do it. We believe innovation comes from the meeting of diverse viewpoints. And when more people unleash their full potential, anything is possible.
+
+<https://www.ucf.edu/about-ucf/>
 {{% /home-location %}}
 
 <!-- ... -->
 
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/2013/careerpanel.jpg,/images/album/2013/current_officers.png,/images/album/2013/ellentalk.jpg,/images/album/2013/gradschool.jpg,/images/album/2013/group.jpg,/images/album/2013/organizers.jpg,/images/album/2013/postersession.jpg,/images/album/2013/rielyerin.jpg" %}}
 
-### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
+### Some pictures of **UCF CUWiP 2013** and the current **UCF WiPS** officers.
 
+<!--
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
     See all photos
     {{% icon "right" %}}
 </a>
-
+-->
 {{% /album  %}}
 
 <!-- ... --> 
 
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
+{{% partners categories="platinium,gold" %}}
 ## Partners
 {{% /partners %}}
